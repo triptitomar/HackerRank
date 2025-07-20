@@ -1,1 +1,3 @@
-Python: 
+Python:
+
+return s.title()
